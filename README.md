@@ -1,7 +1,7 @@
 # File Server Basic
 
 <p align="center">
-  <img src="https://socialify.git.ci/Mohid-Anwar/express-teams-employees/image?language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Dark" alt="express-teams-employees" width="640" height="320" />
+  <img src="https://socialify.git.ci/Mohid-Anwar/file-server/image?language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Dark" alt="file-server" width="640" height="320" />
 </p>
 
 ## Description
